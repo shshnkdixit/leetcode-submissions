@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/shshnkdixit/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/shshnkdixit/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
