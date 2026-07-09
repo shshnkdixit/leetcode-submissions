@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0283-move-zeroes) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shshnkdixit/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
