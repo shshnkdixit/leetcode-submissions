@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [3665-twisted-mirror-path-count](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Greedy
 |  |
 | ------- |
