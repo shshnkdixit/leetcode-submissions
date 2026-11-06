@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2747-count-zero-request-servers](https://github.com/shshnkdixit/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0389-find-the-difference) |
+| [2747-count-zero-request-servers](https://github.com/shshnkdixit/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2747-count-zero-request-servers](https://github.com/shshnkdixit/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/shshnkdixit/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
