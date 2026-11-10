@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2747-count-zero-request-servers](https://github.com/shshnkdixit/leetcode-submissions/tree/master/2747-count-zero-request-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shshnkdixit/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [3665-twisted-mirror-path-count](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/shshnkdixit/leetcode-submissions/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
